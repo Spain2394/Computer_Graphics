@@ -15,7 +15,7 @@ import time
 Coordinate system that will be used in this program
 Note: this graph will be flipped about the x axis when comparing
 with conventional graphs y facing upwards. To check you answers
-simply invert your y --> -y values. This will allow you to check your answers
+simply invert your y values: y --> -y values. This will allow you to check your answers
 0/0---column--->
  |
  |
