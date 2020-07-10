@@ -10,7 +10,7 @@ a) A video demonstation can be found here[./output/p1-2-video.mov](./output/p1-2
 b) Show an image that demonstrates various line types\
 <img src="./output/ps1-2.png" height="200" width="200">
 
-c) Show lines that compose a square
+c) Show lines that compose a square\
 <img src="./output/ps1-1-square.png" height="200" width="200">
 
 3. Report showing timing chart and algorithm comparison shown in the pdf: [1-2.pdf](./1-2.pdf)
