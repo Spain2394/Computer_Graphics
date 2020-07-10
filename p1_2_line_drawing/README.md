@@ -13,4 +13,4 @@ b) Show an image that demonstrates various line types\
 c) Show lines that compose a square\
 <img src="./output/ps1-1-square.png" height="200" width="200">
 
-3. Report showing timing chart and algorithm comparison shown in the pdf: [1-2.pdf](./1-2.pdf)
+1. Report showing timing chart and algorithm comparison shown in the pdf: [1-2.pdf](./P1-2_Spain.docx)
