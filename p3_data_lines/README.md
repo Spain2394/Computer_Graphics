@@ -38,11 +38,11 @@ Rotate from in increments of 5 \
 <img src="./output/ps3-triangle-3.png" heigh=200 width=200>
 
 b) Cube, guessing centriod (Original cube near origin)
-Scale without translation
+Scale without translation\
 <img src="./output/ps3-cube-1.png" heigh=200 width=200>
-Scale with translation
+Scale with translation\
 <img src="./output/ps3-cube-2.png" heigh=200 width=200>
-Rotate after translation and scale, with updated and original cube.
+Rotate after translation and scale, with updated and original cube.\ 
 <img src="./output/ps3-cube-3.png" heigh=200 width=200>
-Just because it looks cool. The video file can be found here [./output/ps3-cube-4.mov](./output/ps3-cube-4.mov)
+Just because it looks cool. The video file can be found here [./output/ps3-cube-4.mov](./output/ps3-cube-4.mov)\
 <img src="./output/ps3-cube-4.png" heigh=200 width=200>
