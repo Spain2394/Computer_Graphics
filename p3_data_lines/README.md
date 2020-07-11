@@ -29,19 +29,17 @@ After reading from file in b0) \
 
 ## 3. Some other intesting examples 
 All original lines are drawn in green, those after transformation are in pink. \
-a) triangle 
-scaled by 2 in x and y and transformed about the original traingles center\
+a) triangle scaled by 2 in x and y and transformed about the original traingles center\
 <img src="./output/ps3-triangle-1.png" heigh=200 width=200>
-30 degree rotation 
+b) rotation \
 <img src="./output/ps3-triangle-2.png" heigh=200 width=200>
-Rotate from in increments of 5 
+c) Rotate from in increments of 5 \
 <img src="./output/ps3-triangle-3.png" heigh=200 width=200>
-b) Cube, guessing centriod (Original cube near origin)
-Scale without translation
+b) Cube, guessing centriod (Original cube near origin) scale without translation\
 <img src="./output/ps3-cube-1.png" heigh=200 width=200>
-Scale with translation\
+e) Scale with translation\
 <img src="./output/ps3-cube-2.png" heigh=200 width=200>
-Rotate after translation and scale, with updated and original cube.
+f) Rotate after translation and scale, with updated and original cube.\
 <img src="./output/ps3-cube-3.png" heigh=200 width=200>
-Just because it looks cool. The video file can be found here [./output/ps3-cube-4.mov](./output/ps3-cube-4.mov)
+g) Just because it looks cool. The video file can be found here [./output/ps3-cube-4.mov](./output/ps3-cube-4.mov)\
 <img src="./output/ps3-cube-4.png" heigh=200 width=200>
