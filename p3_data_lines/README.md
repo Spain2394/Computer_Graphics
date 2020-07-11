@@ -30,7 +30,7 @@ After reading from file in b0) \
 ## 3. Some other intesting examples 
 All original lines are drawn in green, those after transformation are in pink. \
 a) triangle scaled by 2 in x and y and transformed about the original traingles center\
-<img src="./output/ps3-triangle-1.png" heigh=200 width=200>
+<img src="./output/ps3-triangle-1.png" heigh=200 width=200>\
 b) rotation \
 
 <img src="./output/ps3-triangle-2.png" heigh=200 width=200>
