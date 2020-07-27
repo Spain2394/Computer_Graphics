@@ -13,7 +13,7 @@ a0) House projected using defualt projection parameters. Note that becuase the o
 <img src="./output/ps4-2-a-0.png" heigh=200 width=200>
 
 ### 3. Basic Scale 
-#### a0) Scale ```(1,2,1)``
+#### a0) Scale ```(1,2,1)```
 <img src="./output/ps4-3-a-0.png" heigh=200 width=200>
 
 #### b0) Scale ```(2,1,1)```
@@ -44,16 +44,12 @@ a0) House projected using defualt projection parameters. Note that becuase the o
 #### c4) Rz(360)
 <img src="./output/ps4-4-c-4.png" heigh=200 width=200>
 
-
 #### 5. Translation
 #### a0) (50, 50, 50)
 <img src="./output/ps4-5-a-0.png" heigh=200 width=200>
-
 
 #### b0) (10, 10, 100)
 <img src="./output/ps4-5-b-0.png" heigh=200 width=200>
 
 #### c0) (-100,-100,-2)
 <img src="./output/ps4-5-c-0.png" heigh=200 width=200>
-
-
