@@ -5,14 +5,17 @@
 #### Notes 
 
 ### 1. Cube
+
 #### a0) Cube projected using default projection parameters
 <img src="./output/ps4-1-a-0.png" heigh=200 width=200>
 
 ### 2. Cube
+
 #### a0) House projected using defualt projection parameters. Note that becuase the origin of my coordinate system is in the top right rather than in the bottom left the "roof" is on the bottom. The visual cone isn't very good the original image is very distorted.
 <img src="./output/ps4-2-a-0.png" heigh=200 width=200>
 
 ### 3. Basic Scale 
+
 #### a0) Scale ```(1,2,1)```
 <img src="./output/ps4-3-a-0.png" heigh=200 width=200>
 
